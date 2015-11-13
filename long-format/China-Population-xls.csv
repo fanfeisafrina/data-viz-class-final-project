@@ -1,0 +1,839 @@
+Code,Geography,Currency,Units,Province,Population
+CNAH,China: Anhui,,m,1996,59.1
+CNAH,China: Anhui,,m,1997,59.4
+CNAH,China: Anhui,,m,1998,59.7
+CNAH,China: Anhui,,m,1999,59.9
+CNAH,China: Anhui,,m,2000,60.09
+CNAH,China: Anhui,,m,2001,60.3
+CNAH,China: Anhui,,m,2002,60.1
+CNAH,China: Anhui,,m,2003,60.0
+CNAH,China: Anhui,,m,2004,59.9
+CNAH,China: Anhui,,m,2005,59.8
+CNAH,China: Anhui,,m,2006,59.7
+CNAH,China: Anhui,,m,2007,59.6
+CNAH,China: Anhui,,m,2008,59.6
+CNAH,China: Anhui,,m,2009,59.6
+CNAH,China: Anhui,,m,2010,59.57
+CNAH,China: Anhui,,m,2011,59.5
+CNAH,China: Anhui,,m,2012,59.5
+CNAH,China: Anhui,,m,2013,59.4
+CNAH,China: Anhui,,m,2014,59.5
+CNAH,China: Anhui,,m,2015,59.5
+CNAH,China: Anhui,,m,2016,59.5
+CNAH,China: Anhui,,m,2017,59.6
+CNAH,China: Anhui,,m,2018,59.6
+CNAH,China: Anhui,,m,2019,59.7
+CNAH,China: Anhui,,m,2020,59.7
+CNAH,China: Anhui,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNAH,China: Anhui,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNBJ,China: Beijing,,m,1996,12.6
+CNBJ,China: Beijing,,m,1997,12.9
+CNBJ,China: Beijing,,m,1998,13.2
+CNBJ,China: Beijing,,m,1999,13.5
+CNBJ,China: Beijing,,m,2000,13.82
+CNBJ,China: Beijing,,m,2001,14.3
+CNBJ,China: Beijing,,m,2002,14.8
+CNBJ,China: Beijing,,m,2003,15.3
+CNBJ,China: Beijing,,m,2004,15.8
+CNBJ,China: Beijing,,m,2005,16.4
+CNBJ,China: Beijing,,m,2006,17.0
+CNBJ,China: Beijing,,m,2007,17.6
+CNBJ,China: Beijing,,m,2008,18.3
+CNBJ,China: Beijing,,m,2009,18.9
+CNBJ,China: Beijing,,m,2010,19.64
+CNBJ,China: Beijing,,m,2011,20.3
+CNBJ,China: Beijing,,m,2012,21.0
+CNBJ,China: Beijing,,m,2013,21.6
+CNBJ,China: Beijing,,m,2014,22.2
+CNBJ,China: Beijing,,m,2015,22.8
+CNBJ,China: Beijing,,m,2016,23.4
+CNBJ,China: Beijing,,m,2017,23.8
+CNBJ,China: Beijing,,m,2018,24.3
+CNBJ,China: Beijing,,m,2019,24.7
+CNBJ,China: Beijing,,m,2020,25.0
+CNBJ,China: Beijing,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNBJ,China: Beijing,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNCQ,China: Chongqing,,m,1996,–
+CNCQ,China: Chongqing,,m,1997,28.0
+CNCQ,China: Chongqing,,m,1998,29.3
+CNCQ,China: Chongqing,,m,1999,30.4
+CNCQ,China: Chongqing,,m,2000,31.08
+CNCQ,China: Chongqing,,m,2001,30.9
+CNCQ,China: Chongqing,,m,2002,30.7
+CNCQ,China: Chongqing,,m,2003,30.4
+CNCQ,China: Chongqing,,m,2004,30.2
+CNCQ,China: Chongqing,,m,2005,30.0
+CNCQ,China: Chongqing,,m,2006,29.7
+CNCQ,China: Chongqing,,m,2007,29.5
+CNCQ,China: Chongqing,,m,2008,29.3
+CNCQ,China: Chongqing,,m,2009,29.1
+CNCQ,China: Chongqing,,m,2010,28.88
+CNCQ,China: Chongqing,,m,2011,28.6
+CNCQ,China: Chongqing,,m,2012,28.3
+CNCQ,China: Chongqing,,m,2013,28.0
+CNCQ,China: Chongqing,,m,2014,27.8
+CNCQ,China: Chongqing,,m,2015,27.6
+CNCQ,China: Chongqing,,m,2016,27.5
+CNCQ,China: Chongqing,,m,2017,27.3
+CNCQ,China: Chongqing,,m,2018,27.2
+CNCQ,China: Chongqing,,m,2019,27.0
+CNCQ,China: Chongqing,,m,2020,26.9
+CNCQ,China: Chongqing,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNCQ,China: Chongqing,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNFJ,China: Fujian,,m,1996,33.0
+CNFJ,China: Fujian,,m,1997,33.4
+CNFJ,China: Fujian,,m,1998,33.9
+CNFJ,China: Fujian,,m,1999,34.3
+CNFJ,China: Fujian,,m,2000,34.73
+CNFJ,China: Fujian,,m,2001,35.1
+CNFJ,China: Fujian,,m,2002,35.3
+CNFJ,China: Fujian,,m,2003,35.5
+CNFJ,China: Fujian,,m,2004,35.7
+CNFJ,China: Fujian,,m,2005,36.0
+CNFJ,China: Fujian,,m,2006,36.2
+CNFJ,China: Fujian,,m,2007,36.4
+CNFJ,China: Fujian,,m,2008,36.6
+CNFJ,China: Fujian,,m,2009,36.8
+CNFJ,China: Fujian,,m,2010,36.94
+CNFJ,China: Fujian,,m,2011,37.1
+CNFJ,China: Fujian,,m,2012,37.2
+CNFJ,China: Fujian,,m,2013,37.4
+CNFJ,China: Fujian,,m,2014,37.5
+CNFJ,China: Fujian,,m,2015,37.7
+CNFJ,China: Fujian,,m,2016,37.8
+CNFJ,China: Fujian,,m,2017,38.0
+CNFJ,China: Fujian,,m,2018,38.1
+CNFJ,China: Fujian,,m,2019,38.2
+CNFJ,China: Fujian,,m,2020,38.3
+CNFJ,China: Fujian,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNFJ,China: Fujian,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNGS,China: Gansu,,m,1996,24.3
+CNGS,China: Gansu,,m,1997,24.6
+CNGS,China: Gansu,,m,1998,24.9
+CNGS,China: Gansu,,m,1999,25.2
+CNGS,China: Gansu,,m,2000,25.59
+CNGS,China: Gansu,,m,2001,25.7
+CNGS,China: Gansu,,m,2002,25.7
+CNGS,China: Gansu,,m,2003,25.7
+CNGS,China: Gansu,,m,2004,25.7
+CNGS,China: Gansu,,m,2005,25.7
+CNGS,China: Gansu,,m,2006,25.7
+CNGS,China: Gansu,,m,2007,25.7
+CNGS,China: Gansu,,m,2008,25.7
+CNGS,China: Gansu,,m,2009,25.6
+CNGS,China: Gansu,,m,2010,25.61
+CNGS,China: Gansu,,m,2011,25.5
+CNGS,China: Gansu,,m,2012,25.5
+CNGS,China: Gansu,,m,2013,25.5
+CNGS,China: Gansu,,m,2014,25.5
+CNGS,China: Gansu,,m,2015,25.5
+CNGS,China: Gansu,,m,2016,25.5
+CNGS,China: Gansu,,m,2017,25.5
+CNGS,China: Gansu,,m,2018,25.6
+CNGS,China: Gansu,,m,2019,25.6
+CNGS,China: Gansu,,m,2020,25.6
+CNGS,China: Gansu,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNGS,China: Gansu,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNGD,China: Guangdong,,m,1996,72.5
+CNGD,China: Guangdong,,m,1997,75.3
+CNGD,China: Guangdong,,m,1998,78.6
+CNGD,China: Guangdong,,m,1999,82.4
+CNGD,China: Guangdong,,m,2000,86.8
+CNGD,China: Guangdong,,m,2001,88.4
+CNGD,China: Guangdong,,m,2002,90.1
+CNGD,China: Guangdong,,m,2003,91.8
+CNGD,China: Guangdong,,m,2004,93.5
+CNGD,China: Guangdong,,m,2005,95.2
+CNGD,China: Guangdong,,m,2006,97.0
+CNGD,China: Guangdong,,m,2007,98.9
+CNGD,China: Guangdong,,m,2008,101.0
+CNGD,China: Guangdong,,m,2009,103.0
+CNGD,China: Guangdong,,m,2010,104.4
+CNGD,China: Guangdong,,m,2011,106.0
+CNGD,China: Guangdong,,m,2012,108.0
+CNGD,China: Guangdong,,m,2013,110.0
+CNGD,China: Guangdong,,m,2014,112.0
+CNGD,China: Guangdong,,m,2015,113.0
+CNGD,China: Guangdong,,m,2016,115.0
+CNGD,China: Guangdong,,m,2017,117.0
+CNGD,China: Guangdong,,m,2018,118.0
+CNGD,China: Guangdong,,m,2019,120.0
+CNGD,China: Guangdong,,m,2020,121.0
+CNGD,China: Guangdong,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNGD,China: Guangdong,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNGX,China: Guangxi,,m,1996,44.5
+CNGX,China: Guangxi,,m,1997,44.6
+CNGX,China: Guangxi,,m,1998,44.7
+CNGX,China: Guangxi,,m,1999,44.7
+CNGX,China: Guangxi,,m,2000,44.66
+CNGX,China: Guangxi,,m,2001,44.8
+CNGX,China: Guangxi,,m,2002,44.9
+CNGX,China: Guangxi,,m,2003,45.0
+CNGX,China: Guangxi,,m,2004,45.2
+CNGX,China: Guangxi,,m,2005,45.3
+CNGX,China: Guangxi,,m,2006,45.4
+CNGX,China: Guangxi,,m,2007,45.5
+CNGX,China: Guangxi,,m,2008,45.7
+CNGX,China: Guangxi,,m,2009,45.8
+CNGX,China: Guangxi,,m,2010,46.08
+CNGX,China: Guangxi,,m,2011,46.2
+CNGX,China: Guangxi,,m,2012,46.3
+CNGX,China: Guangxi,,m,2013,46.4
+CNGX,China: Guangxi,,m,2014,46.6
+CNGX,China: Guangxi,,m,2015,46.7
+CNGX,China: Guangxi,,m,2016,46.9
+CNGX,China: Guangxi,,m,2017,47.0
+CNGX,China: Guangxi,,m,2018,47.2
+CNGX,China: Guangxi,,m,2019,47.4
+CNGX,China: Guangxi,,m,2020,47.6
+CNGX,China: Guangxi,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNGX,China: Guangxi,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNGZ,China: Guizhou,,m,1996,34.6
+CNGZ,China: Guizhou,,m,1997,34.9
+CNGZ,China: Guizhou,,m,1998,35.2
+CNGZ,China: Guizhou,,m,1999,35.6
+CNGZ,China: Guizhou,,m,2000,35.9
+CNGZ,China: Guizhou,,m,2001,35.9
+CNGZ,China: Guizhou,,m,2002,35.9
+CNGZ,China: Guizhou,,m,2003,35.8
+CNGZ,China: Guizhou,,m,2004,35.7
+CNGZ,China: Guizhou,,m,2005,35.6
+CNGZ,China: Guizhou,,m,2006,35.4
+CNGZ,China: Guizhou,,m,2007,35.3
+CNGZ,China: Guizhou,,m,2008,35.1
+CNGZ,China: Guizhou,,m,2009,34.9
+CNGZ,China: Guizhou,,m,2010,34.79
+CNGZ,China: Guizhou,,m,2011,34.6
+CNGZ,China: Guizhou,,m,2012,34.4
+CNGZ,China: Guizhou,,m,2013,34.2
+CNGZ,China: Guizhou,,m,2014,34.1
+CNGZ,China: Guizhou,,m,2015,33.9
+CNGZ,China: Guizhou,,m,2016,33.9
+CNGZ,China: Guizhou,,m,2017,33.8
+CNGZ,China: Guizhou,,m,2018,33.9
+CNGZ,China: Guizhou,,m,2019,33.9
+CNGZ,China: Guizhou,,m,2020,34.0
+CNGZ,China: Guizhou,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNGZ,China: Guizhou,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNHI,China: Hainan,,m,1996,9.49
+CNHI,China: Hainan,,m,1997,9.42
+CNHI,China: Hainan,,m,1998,9.12
+CNHI,China: Hainan,,m,1999,8.56
+CNHI,China: Hainan,,m,2000,7.698
+CNHI,China: Hainan,,m,2001,7.82
+CNHI,China: Hainan,,m,2002,7.92
+CNHI,China: Hainan,,m,2003,8.01
+CNHI,China: Hainan,,m,2004,8.11
+CNHI,China: Hainan,,m,2005,8.2
+CNHI,China: Hainan,,m,2006,8.29
+CNHI,China: Hainan,,m,2007,8.39
+CNHI,China: Hainan,,m,2008,8.48
+CNHI,China: Hainan,,m,2009,8.56
+CNHI,China: Hainan,,m,2010,8.682
+CNHI,China: Hainan,,m,2011,8.75
+CNHI,China: Hainan,,m,2012,8.83
+CNHI,China: Hainan,,m,2013,8.91
+CNHI,China: Hainan,,m,2014,8.99
+CNHI,China: Hainan,,m,2015,9.07
+CNHI,China: Hainan,,m,2016,9.14
+CNHI,China: Hainan,,m,2017,9.21
+CNHI,China: Hainan,,m,2018,9.28
+CNHI,China: Hainan,,m,2019,9.35
+CNHI,China: Hainan,,m,2020,9.41
+CNHI,China: Hainan,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNHI,China: Hainan,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNHE,China: Hebei,,m,1996,–
+CNHE,China: Hebei,,m,1997,–
+CNHE,China: Hebei,,m,1998,–
+CNHE,China: Hebei,,m,1999,–
+CNHE,China: Hebei,,m,2000,67.91
+CNHE,China: Hebei,,m,2001,68.1
+CNHE,China: Hebei,,m,2002,68.3
+CNHE,China: Hebei,,m,2003,68.6
+CNHE,China: Hebei,,m,2004,68.9
+CNHE,China: Hebei,,m,2005,69.3
+CNHE,China: Hebei,,m,2006,69.7
+CNHE,China: Hebei,,m,2007,70.2
+CNHE,China: Hebei,,m,2008,70.7
+CNHE,China: Hebei,,m,2009,71.3
+CNHE,China: Hebei,,m,2010,71.94
+CNHE,China: Hebei,,m,2011,72.5
+CNHE,China: Hebei,,m,2012,73.1
+CNHE,China: Hebei,,m,2013,73.8
+CNHE,China: Hebei,,m,2014,74.4
+CNHE,China: Hebei,,m,2015,74.9
+CNHE,China: Hebei,,m,2016,75.5
+CNHE,China: Hebei,,m,2017,75.9
+CNHE,China: Hebei,,m,2018,76.4
+CNHE,China: Hebei,,m,2019,76.7
+CNHE,China: Hebei,,m,2020,77.1
+CNHE,China: Hebei,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNHE,China: Hebei,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNHL,China: Heilongjiang,,m,1996,36.3
+CNHL,China: Heilongjiang,,m,1997,36.4
+CNHL,China: Heilongjiang,,m,1998,36.6
+CNHL,China: Heilongjiang,,m,1999,36.7
+CNHL,China: Heilongjiang,,m,2000,36.91
+CNHL,China: Heilongjiang,,m,2001,37.1
+CNHL,China: Heilongjiang,,m,2002,37.3
+CNHL,China: Heilongjiang,,m,2003,37.5
+CNHL,China: Heilongjiang,,m,2004,37.6
+CNHL,China: Heilongjiang,,m,2005,37.8
+CNHL,China: Heilongjiang,,m,2006,37.9
+CNHL,China: Heilongjiang,,m,2007,38.0
+CNHL,China: Heilongjiang,,m,2008,38.1
+CNHL,China: Heilongjiang,,m,2009,38.2
+CNHL,China: Heilongjiang,,m,2010,38.36
+CNHL,China: Heilongjiang,,m,2011,38.4
+CNHL,China: Heilongjiang,,m,2012,38.4
+CNHL,China: Heilongjiang,,m,2013,38.4
+CNHL,China: Heilongjiang,,m,2014,38.5
+CNHL,China: Heilongjiang,,m,2015,38.4
+CNHL,China: Heilongjiang,,m,2016,38.4
+CNHL,China: Heilongjiang,,m,2017,38.4
+CNHL,China: Heilongjiang,,m,2018,38.4
+CNHL,China: Heilongjiang,,m,2019,38.3
+CNHL,China: Heilongjiang,,m,2020,38.2
+CNHL,China: Heilongjiang,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNHL,China: Heilongjiang,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNHA,China: Henan,,m,1996,91.3
+CNHA,China: Henan,,m,1997,91.9
+CNHA,China: Henan,,m,1998,92.4
+CNHA,China: Henan,,m,1999,92.7
+CNHA,China: Henan,,m,2000,92.92
+CNHA,China: Henan,,m,2001,93.3
+CNHA,China: Henan,,m,2002,93.4
+CNHA,China: Henan,,m,2003,93.4
+CNHA,China: Henan,,m,2004,93.5
+CNHA,China: Henan,,m,2005,93.5
+CNHA,China: Henan,,m,2006,93.6
+CNHA,China: Henan,,m,2007,93.7
+CNHA,China: Henan,,m,2008,93.8
+CNHA,China: Henan,,m,2009,93.9
+CNHA,China: Henan,,m,2010,94.14
+CNHA,China: Henan,,m,2011,94.0
+CNHA,China: Henan,,m,2012,94.1
+CNHA,China: Henan,,m,2013,94.3
+CNHA,China: Henan,,m,2014,94.5
+CNHA,China: Henan,,m,2015,94.7
+CNHA,China: Henan,,m,2016,94.9
+CNHA,China: Henan,,m,2017,95.1
+CNHA,China: Henan,,m,2018,95.3
+CNHA,China: Henan,,m,2019,95.5
+CNHA,China: Henan,,m,2020,95.7
+CNHA,China: Henan,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNHA,China: Henan,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNHB,China: Hubei,,m,1996,58.1
+CNHB,China: Hubei,,m,1997,58.8
+CNHB,China: Hubei,,m,1998,59.4
+CNHB,China: Hubei,,m,1999,60.0
+CNHB,China: Hubei,,m,2000,60.61
+CNHB,China: Hubei,,m,2001,60.6
+CNHB,China: Hubei,,m,2002,60.3
+CNHB,China: Hubei,,m,2003,60.0
+CNHB,China: Hubei,,m,2004,59.7
+CNHB,China: Hubei,,m,2005,59.3
+CNHB,China: Hubei,,m,2006,58.9
+CNHB,China: Hubei,,m,2007,58.6
+CNHB,China: Hubei,,m,2008,58.1
+CNHB,China: Hubei,,m,2009,57.7
+CNHB,China: Hubei,,m,2010,57.31
+CNHB,China: Hubei,,m,2011,56.7
+CNHB,China: Hubei,,m,2012,56.3
+CNHB,China: Hubei,,m,2013,55.9
+CNHB,China: Hubei,,m,2014,55.5
+CNHB,China: Hubei,,m,2015,55.2
+CNHB,China: Hubei,,m,2016,54.9
+CNHB,China: Hubei,,m,2017,54.6
+CNHB,China: Hubei,,m,2018,54.4
+CNHB,China: Hubei,,m,2019,54.2
+CNHB,China: Hubei,,m,2020,54.0
+CNHB,China: Hubei,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNHB,China: Hubei,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNHN,China: Hunan,,m,1996,63.7
+CNHN,China: Hunan,,m,1997,64.0
+CNHN,China: Hunan,,m,1998,64.2
+CNHN,China: Hunan,,m,1999,64.4
+CNHN,China: Hunan,,m,2000,64.44
+CNHN,China: Hunan,,m,2001,64.5
+CNHN,China: Hunan,,m,2002,64.6
+CNHN,China: Hunan,,m,2003,64.6
+CNHN,China: Hunan,,m,2004,64.7
+CNHN,China: Hunan,,m,2005,64.8
+CNHN,China: Hunan,,m,2006,64.8
+CNHN,China: Hunan,,m,2007,65.0
+CNHN,China: Hunan,,m,2008,65.1
+CNHN,China: Hunan,,m,2009,65.2
+CNHN,China: Hunan,,m,2010,65.78
+CNHN,China: Hunan,,m,2011,65.9
+CNHN,China: Hunan,,m,2012,66.0
+CNHN,China: Hunan,,m,2013,66.2
+CNHN,China: Hunan,,m,2014,66.3
+CNHN,China: Hunan,,m,2015,66.4
+CNHN,China: Hunan,,m,2016,66.5
+CNHN,China: Hunan,,m,2017,66.6
+CNHN,China: Hunan,,m,2018,66.7
+CNHN,China: Hunan,,m,2019,66.8
+CNHN,China: Hunan,,m,2020,66.9
+CNHN,China: Hunan,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNHN,China: Hunan,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNNM,China: Inner Mongolia,,m,1996,22.9
+CNNM,China: Inner Mongolia,,m,1997,23.1
+CNNM,China: Inner Mongolia,,m,1998,23.3
+CNNM,China: Inner Mongolia,,m,1999,23.5
+CNNM,China: Inner Mongolia,,m,2000,23.75
+CNNM,China: Inner Mongolia,,m,2001,23.9
+CNNM,China: Inner Mongolia,,m,2002,24.1
+CNNM,China: Inner Mongolia,,m,2003,24.2
+CNNM,China: Inner Mongolia,,m,2004,24.3
+CNNM,China: Inner Mongolia,,m,2005,24.4
+CNNM,China: Inner Mongolia,,m,2006,24.4
+CNNM,China: Inner Mongolia,,m,2007,24.5
+CNNM,China: Inner Mongolia,,m,2008,24.5
+CNNM,China: Inner Mongolia,,m,2009,24.6
+CNNM,China: Inner Mongolia,,m,2010,24.74
+CNNM,China: Inner Mongolia,,m,2011,24.7
+CNNM,China: Inner Mongolia,,m,2012,24.7
+CNNM,China: Inner Mongolia,,m,2013,24.7
+CNNM,China: Inner Mongolia,,m,2014,24.7
+CNNM,China: Inner Mongolia,,m,2015,24.8
+CNNM,China: Inner Mongolia,,m,2016,24.8
+CNNM,China: Inner Mongolia,,m,2017,24.8
+CNNM,China: Inner Mongolia,,m,2018,24.9
+CNNM,China: Inner Mongolia,,m,2019,24.9
+CNNM,China: Inner Mongolia,,m,2020,24.9
+CNNM,China: Inner Mongolia,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNNM,China: Inner Mongolia,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNJS,China: Jiangsu,,m,1996,71.5
+CNJS,China: Jiangsu,,m,1997,72.2
+CNJS,China: Jiangsu,,m,1998,72.9
+CNJS,China: Jiangsu,,m,1999,73.6
+CNJS,China: Jiangsu,,m,2000,74.39
+CNJS,China: Jiangsu,,m,2001,74.9
+CNJS,China: Jiangsu,,m,2002,75.2
+CNJS,China: Jiangsu,,m,2003,75.6
+CNJS,China: Jiangsu,,m,2004,75.9
+CNJS,China: Jiangsu,,m,2005,76.4
+CNJS,China: Jiangsu,,m,2006,76.8
+CNJS,China: Jiangsu,,m,2007,77.3
+CNJS,China: Jiangsu,,m,2008,77.8
+CNJS,China: Jiangsu,,m,2009,78.3
+CNJS,China: Jiangsu,,m,2010,78.76
+CNJS,China: Jiangsu,,m,2011,79.1
+CNJS,China: Jiangsu,,m,2012,79.6
+CNJS,China: Jiangsu,,m,2013,80.1
+CNJS,China: Jiangsu,,m,2014,80.5
+CNJS,China: Jiangsu,,m,2015,81.0
+CNJS,China: Jiangsu,,m,2016,81.3
+CNJS,China: Jiangsu,,m,2017,81.7
+CNJS,China: Jiangsu,,m,2018,81.9
+CNJS,China: Jiangsu,,m,2019,82.1
+CNJS,China: Jiangsu,,m,2020,82.3
+CNJS,China: Jiangsu,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNJS,China: Jiangsu,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNJX,China: Jiangxi,,m,1996,40.1
+CNJX,China: Jiangxi,,m,1997,40.4
+CNJX,China: Jiangxi,,m,1998,40.7
+CNJX,China: Jiangxi,,m,1999,40.9
+CNJX,China: Jiangxi,,m,2000,41.14
+CNJX,China: Jiangxi,,m,2001,41.6
+CNJX,China: Jiangxi,,m,2002,41.9
+CNJX,China: Jiangxi,,m,2003,42.2
+CNJX,China: Jiangxi,,m,2004,42.5
+CNJX,China: Jiangxi,,m,2005,42.8
+CNJX,China: Jiangxi,,m,2006,43.1
+CNJX,China: Jiangxi,,m,2007,43.5
+CNJX,China: Jiangxi,,m,2008,43.8
+CNJX,China: Jiangxi,,m,2009,44.2
+CNJX,China: Jiangxi,,m,2010,44.62
+CNJX,China: Jiangxi,,m,2011,44.9
+CNJX,China: Jiangxi,,m,2012,45.2
+CNJX,China: Jiangxi,,m,2013,45.5
+CNJX,China: Jiangxi,,m,2014,45.9
+CNJX,China: Jiangxi,,m,2015,46.2
+CNJX,China: Jiangxi,,m,2016,46.5
+CNJX,China: Jiangxi,,m,2017,46.8
+CNJX,China: Jiangxi,,m,2018,47.1
+CNJX,China: Jiangxi,,m,2019,47.3
+CNJX,China: Jiangxi,,m,2020,47.6
+CNJX,China: Jiangxi,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNJX,China: Jiangxi,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNJL,China: Jilin,,m,1996,26.1
+CNJL,China: Jilin,,m,1997,26.4
+CNJL,China: Jilin,,m,1998,26.7
+CNJL,China: Jilin,,m,1999,27.0
+CNJL,China: Jilin,,m,2000,27.3
+CNJL,China: Jilin,,m,2001,27.4
+CNJL,China: Jilin,,m,2002,27.5
+CNJL,China: Jilin,,m,2003,27.5
+CNJL,China: Jilin,,m,2004,27.5
+CNJL,China: Jilin,,m,2005,27.6
+CNJL,China: Jilin,,m,2006,27.6
+CNJL,China: Jilin,,m,2007,27.5
+CNJL,China: Jilin,,m,2008,27.5
+CNJL,China: Jilin,,m,2009,27.4
+CNJL,China: Jilin,,m,2010,27.49
+CNJL,China: Jilin,,m,2011,27.4
+CNJL,China: Jilin,,m,2012,27.3
+CNJL,China: Jilin,,m,2013,27.2
+CNJL,China: Jilin,,m,2014,27.2
+CNJL,China: Jilin,,m,2015,27.1
+CNJL,China: Jilin,,m,2016,27.0
+CNJL,China: Jilin,,m,2017,27.0
+CNJL,China: Jilin,,m,2018,26.9
+CNJL,China: Jilin,,m,2019,26.8
+CNJL,China: Jilin,,m,2020,26.7
+CNJL,China: Jilin,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNJL,China: Jilin,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNLN,China: Liaoning,,m,1996,41.7
+CNLN,China: Liaoning,,m,1997,42.0
+CNLN,China: Liaoning,,m,1998,42.2
+CNLN,China: Liaoning,,m,1999,42.4
+CNLN,China: Liaoning,,m,2000,42.6
+CNLN,China: Liaoning,,m,2001,42.8
+CNLN,China: Liaoning,,m,2002,43.0
+CNLN,China: Liaoning,,m,2003,43.1
+CNLN,China: Liaoning,,m,2004,43.3
+CNLN,China: Liaoning,,m,2005,43.4
+CNLN,China: Liaoning,,m,2006,43.5
+CNLN,China: Liaoning,,m,2007,43.5
+CNLN,China: Liaoning,,m,2008,43.6
+CNLN,China: Liaoning,,m,2009,43.6
+CNLN,China: Liaoning,,m,2010,43.8
+CNLN,China: Liaoning,,m,2011,43.7
+CNLN,China: Liaoning,,m,2012,43.7
+CNLN,China: Liaoning,,m,2013,43.6
+CNLN,China: Liaoning,,m,2014,43.6
+CNLN,China: Liaoning,,m,2015,43.5
+CNLN,China: Liaoning,,m,2016,43.4
+CNLN,China: Liaoning,,m,2017,43.4
+CNLN,China: Liaoning,,m,2018,43.3
+CNLN,China: Liaoning,,m,2019,43.2
+CNLN,China: Liaoning,,m,2020,43.0
+CNLN,China: Liaoning,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNLN,China: Liaoning,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNNX,China: Ningxia,,m,1996,5.23
+CNNX,China: Ningxia,,m,1997,5.33
+CNNX,China: Ningxia,,m,1998,5.42
+CNNX,China: Ningxia,,m,1999,5.5
+CNNX,China: Ningxia,,m,2000,5.588
+CNNX,China: Ningxia,,m,2001,5.67
+CNNX,China: Ningxia,,m,2002,5.74
+CNNX,China: Ningxia,,m,2003,5.81
+CNNX,China: Ningxia,,m,2004,5.87
+CNNX,China: Ningxia,,m,2005,5.94
+CNNX,China: Ningxia,,m,2006,6.01
+CNNX,China: Ningxia,,m,2007,6.07
+CNNX,China: Ningxia,,m,2008,6.14
+CNNX,China: Ningxia,,m,2009,6.21
+CNNX,China: Ningxia,,m,2010,6.309
+CNNX,China: Ningxia,,m,2011,6.37
+CNNX,China: Ningxia,,m,2012,6.43
+CNNX,China: Ningxia,,m,2013,6.5
+CNNX,China: Ningxia,,m,2014,6.56
+CNNX,China: Ningxia,,m,2015,6.62
+CNNX,China: Ningxia,,m,2016,6.68
+CNNX,China: Ningxia,,m,2017,6.74
+CNNX,China: Ningxia,,m,2018,6.8
+CNNX,China: Ningxia,,m,2019,6.85
+CNNX,China: Ningxia,,m,2020,6.9
+CNNX,China: Ningxia,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNNX,China: Ningxia,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNQH,China: Qinghai,,m,1996,4.76
+CNQH,China: Qinghai,,m,1997,4.8
+CNQH,China: Qinghai,,m,1998,4.84
+CNQH,China: Qinghai,,m,1999,4.88
+CNQH,China: Qinghai,,m,2000,4.912
+CNQH,China: Qinghai,,m,2001,5.0
+CNQH,China: Qinghai,,m,2002,5.07
+CNQH,China: Qinghai,,m,2003,5.14
+CNQH,China: Qinghai,,m,2004,5.21
+CNQH,China: Qinghai,,m,2005,5.28
+CNQH,China: Qinghai,,m,2006,5.35
+CNQH,China: Qinghai,,m,2007,5.41
+CNQH,China: Qinghai,,m,2008,5.48
+CNQH,China: Qinghai,,m,2009,5.55
+CNQH,China: Qinghai,,m,2010,5.633
+CNQH,China: Qinghai,,m,2011,5.7
+CNQH,China: Qinghai,,m,2012,5.77
+CNQH,China: Qinghai,,m,2013,5.83
+CNQH,China: Qinghai,,m,2014,5.89
+CNQH,China: Qinghai,,m,2015,5.95
+CNQH,China: Qinghai,,m,2016,6.01
+CNQH,China: Qinghai,,m,2017,6.06
+CNQH,China: Qinghai,,m,2018,6.11
+CNQH,China: Qinghai,,m,2019,6.16
+CNQH,China: Qinghai,,m,2020,6.2
+CNQH,China: Qinghai,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNQH,China: Qinghai,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNSN,China: Shaanxi,,m,1996,35.2
+CNSN,China: Shaanxi,,m,1997,35.5
+CNSN,China: Shaanxi,,m,1998,35.7
+CNSN,China: Shaanxi,,m,1999,35.9
+CNSN,China: Shaanxi,,m,2000,36.02
+CNSN,China: Shaanxi,,m,2001,36.3
+CNSN,China: Shaanxi,,m,2002,36.4
+CNSN,China: Shaanxi,,m,2003,36.5
+CNSN,China: Shaanxi,,m,2004,36.6
+CNSN,China: Shaanxi,,m,2005,36.7
+CNSN,China: Shaanxi,,m,2006,36.8
+CNSN,China: Shaanxi,,m,2007,36.9
+CNSN,China: Shaanxi,,m,2008,37.0
+CNSN,China: Shaanxi,,m,2009,37.1
+CNSN,China: Shaanxi,,m,2010,37.37
+CNSN,China: Shaanxi,,m,2011,37.4
+CNSN,China: Shaanxi,,m,2012,37.5
+CNSN,China: Shaanxi,,m,2013,37.6
+CNSN,China: Shaanxi,,m,2014,37.7
+CNSN,China: Shaanxi,,m,2015,37.8
+CNSN,China: Shaanxi,,m,2016,37.9
+CNSN,China: Shaanxi,,m,2017,37.9
+CNSN,China: Shaanxi,,m,2018,38.0
+CNSN,China: Shaanxi,,m,2019,38.1
+CNSN,China: Shaanxi,,m,2020,38.1
+CNSN,China: Shaanxi,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNSN,China: Shaanxi,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNSD,China: Shandong,,m,1996,90.0
+CNSD,China: Shandong,,m,1997,90.6
+CNSD,China: Shandong,,m,1998,91.1
+CNSD,China: Shandong,,m,1999,91.4
+CNSD,China: Shandong,,m,2000,91.63
+CNSD,China: Shandong,,m,2001,92.1
+CNSD,China: Shandong,,m,2002,92.5
+CNSD,China: Shandong,,m,2003,93.0
+CNSD,China: Shandong,,m,2004,93.5
+CNSD,China: Shandong,,m,2005,93.9
+CNSD,China: Shandong,,m,2006,94.4
+CNSD,China: Shandong,,m,2007,94.8
+CNSD,China: Shandong,,m,2008,95.1
+CNSD,China: Shandong,,m,2009,95.5
+CNSD,China: Shandong,,m,2010,95.91
+CNSD,China: Shandong,,m,2011,96.2
+CNSD,China: Shandong,,m,2012,96.4
+CNSD,China: Shandong,,m,2013,96.7
+CNSD,China: Shandong,,m,2014,96.9
+CNSD,China: Shandong,,m,2015,97.1
+CNSD,China: Shandong,,m,2016,97.3
+CNSD,China: Shandong,,m,2017,97.5
+CNSD,China: Shandong,,m,2018,97.7
+CNSD,China: Shandong,,m,2019,97.8
+CNSD,China: Shandong,,m,2020,97.8
+CNSD,China: Shandong,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNSD,China: Shandong,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNSH,China: Shanghai,,m,1996,15.2
+CNSH,China: Shanghai,,m,1997,15.6
+CNSH,China: Shanghai,,m,1998,15.9
+CNSH,China: Shanghai,,m,1999,16.3
+CNSH,China: Shanghai,,m,2000,16.71
+CNSH,China: Shanghai,,m,2001,17.3
+CNSH,China: Shanghai,,m,2002,17.8
+CNSH,China: Shanghai,,m,2003,18.4
+CNSH,China: Shanghai,,m,2004,19.1
+CNSH,China: Shanghai,,m,2005,19.7
+CNSH,China: Shanghai,,m,2006,20.3
+CNSH,China: Shanghai,,m,2007,21.0
+CNSH,China: Shanghai,,m,2008,21.7
+CNSH,China: Shanghai,,m,2009,22.4
+CNSH,China: Shanghai,,m,2010,23.05
+CNSH,China: Shanghai,,m,2011,23.7
+CNSH,China: Shanghai,,m,2012,24.4
+CNSH,China: Shanghai,,m,2013,25.0
+CNSH,China: Shanghai,,m,2014,25.6
+CNSH,China: Shanghai,,m,2015,26.1
+CNSH,China: Shanghai,,m,2016,26.7
+CNSH,China: Shanghai,,m,2017,27.1
+CNSH,China: Shanghai,,m,2018,27.5
+CNSH,China: Shanghai,,m,2019,27.9
+CNSH,China: Shanghai,,m,2020,28.1
+CNSH,China: Shanghai,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNSH,China: Shanghai,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNSX,China: Shanxi,,m,1996,31.4
+CNSX,China: Shanxi,,m,1997,31.8
+CNSX,China: Shanxi,,m,1998,32.2
+CNSX,China: Shanxi,,m,1999,32.6
+CNSX,China: Shanxi,,m,2000,33.07
+CNSX,China: Shanxi,,m,2001,33.5
+CNSX,China: Shanxi,,m,2002,33.7
+CNSX,China: Shanxi,,m,2003,34.0
+CNSX,China: Shanxi,,m,2004,34.2
+CNSX,China: Shanxi,,m,2005,34.5
+CNSX,China: Shanxi,,m,2006,34.7
+CNSX,China: Shanxi,,m,2007,34.9
+CNSX,China: Shanxi,,m,2008,35.1
+CNSX,China: Shanxi,,m,2009,35.3
+CNSX,China: Shanxi,,m,2010,35.76
+CNSX,China: Shanxi,,m,2011,35.9
+CNSX,China: Shanxi,,m,2012,36.1
+CNSX,China: Shanxi,,m,2013,36.2
+CNSX,China: Shanxi,,m,2014,36.4
+CNSX,China: Shanxi,,m,2015,36.5
+CNSX,China: Shanxi,,m,2016,36.7
+CNSX,China: Shanxi,,m,2017,36.8
+CNSX,China: Shanxi,,m,2018,36.9
+CNSX,China: Shanxi,,m,2019,37.1
+CNSX,China: Shanxi,,m,2020,37.2
+CNSX,China: Shanxi,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNSX,China: Shanxi,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNSC,China: Sichuan,,m,1996,99.5
+CNSC,China: Sichuan,,m,1997,96.5
+CNSC,China: Sichuan,,m,1998,92.9
+CNSC,China: Sichuan,,m,1999,88.7
+CNSC,China: Sichuan,,m,2000,83.87
+CNSC,China: Sichuan,,m,2001,83.7
+CNSC,China: Sichuan,,m,2002,83.4
+CNSC,China: Sichuan,,m,2003,83.1
+CNSC,China: Sichuan,,m,2004,82.7
+CNSC,China: Sichuan,,m,2005,82.3
+CNSC,China: Sichuan,,m,2006,81.9
+CNSC,China: Sichuan,,m,2007,81.5
+CNSC,China: Sichuan,,m,2008,81.0
+CNSC,China: Sichuan,,m,2009,80.5
+CNSC,China: Sichuan,,m,2010,80.51
+CNSC,China: Sichuan,,m,2011,79.8
+CNSC,China: Sichuan,,m,2012,79.2
+CNSC,China: Sichuan,,m,2013,78.7
+CNSC,China: Sichuan,,m,2014,78.2
+CNSC,China: Sichuan,,m,2015,77.7
+CNSC,China: Sichuan,,m,2016,77.3
+CNSC,China: Sichuan,,m,2017,76.9
+CNSC,China: Sichuan,,m,2018,76.5
+CNSC,China: Sichuan,,m,2019,76.2
+CNSC,China: Sichuan,,m,2020,75.9
+CNSC,China: Sichuan,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNSC,China: Sichuan,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNTJ,China: Tianjin,,m,1996,9.14
+CNTJ,China: Tianjin,,m,1997,9.28
+CNTJ,China: Tianjin,,m,1998,9.47
+CNTJ,China: Tianjin,,m,1999,9.71
+CNTJ,China: Tianjin,,m,2000,10.03
+CNTJ,China: Tianjin,,m,2001,10.3
+CNTJ,China: Tianjin,,m,2002,10.5
+CNTJ,China: Tianjin,,m,2003,10.8
+CNTJ,China: Tianjin,,m,2004,11.1
+CNTJ,China: Tianjin,,m,2005,11.4
+CNTJ,China: Tianjin,,m,2006,11.7
+CNTJ,China: Tianjin,,m,2007,12.0
+CNTJ,China: Tianjin,,m,2008,12.3
+CNTJ,China: Tianjin,,m,2009,12.6
+CNTJ,China: Tianjin,,m,2010,12.95
+CNTJ,China: Tianjin,,m,2011,13.3
+CNTJ,China: Tianjin,,m,2012,13.6
+CNTJ,China: Tianjin,,m,2013,13.9
+CNTJ,China: Tianjin,,m,2014,14.2
+CNTJ,China: Tianjin,,m,2015,14.5
+CNTJ,China: Tianjin,,m,2016,14.7
+CNTJ,China: Tianjin,,m,2017,15.0
+CNTJ,China: Tianjin,,m,2018,15.2
+CNTJ,China: Tianjin,,m,2019,15.3
+CNTJ,China: Tianjin,,m,2020,15.5
+CNTJ,China: Tianjin,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNTJ,China: Tianjin,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNTB,China: Tibet,,m,1996,2.39
+CNTB,China: Tibet,,m,1997,2.44
+CNTB,China: Tibet,,m,1998,2.5
+CNTB,China: Tibet,,m,1999,2.58
+CNTB,China: Tibet,,m,2000,2.665
+CNTB,China: Tibet,,m,2001,2.7
+CNTB,China: Tibet,,m,2002,2.74
+CNTB,China: Tibet,,m,2003,2.77
+CNTB,China: Tibet,,m,2004,2.8
+CNTB,China: Tibet,,m,2005,2.84
+CNTB,China: Tibet,,m,2006,2.87
+CNTB,China: Tibet,,m,2007,2.9
+CNTB,China: Tibet,,m,2008,2.94
+CNTB,China: Tibet,,m,2009,2.97
+CNTB,China: Tibet,,m,2010,3.006
+CNTB,China: Tibet,,m,2011,3.04
+CNTB,China: Tibet,,m,2012,3.07
+CNTB,China: Tibet,,m,2013,3.11
+CNTB,China: Tibet,,m,2014,3.15
+CNTB,China: Tibet,,m,2015,3.18
+CNTB,China: Tibet,,m,2016,3.22
+CNTB,China: Tibet,,m,2017,3.26
+CNTB,China: Tibet,,m,2018,3.3
+CNTB,China: Tibet,,m,2019,3.33
+CNTB,China: Tibet,,m,2020,3.37
+CNTB,China: Tibet,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNTB,China: Tibet,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNXJ,China: Xinjiang,,m,1996,17.0
+CNXJ,China: Xinjiang,,m,1997,17.4
+CNXJ,China: Xinjiang,,m,1998,17.9
+CNXJ,China: Xinjiang,,m,1999,18.3
+CNXJ,China: Xinjiang,,m,2000,18.8
+CNXJ,China: Xinjiang,,m,2001,19.1
+CNXJ,China: Xinjiang,,m,2002,19.4
+CNXJ,China: Xinjiang,,m,2003,19.7
+CNXJ,China: Xinjiang,,m,2004,20.0
+CNXJ,China: Xinjiang,,m,2005,20.3
+CNXJ,China: Xinjiang,,m,2006,20.6
+CNXJ,China: Xinjiang,,m,2007,20.9
+CNXJ,China: Xinjiang,,m,2008,21.2
+CNXJ,China: Xinjiang,,m,2009,21.5
+CNXJ,China: Xinjiang,,m,2010,21.84
+CNXJ,China: Xinjiang,,m,2011,22.1
+CNXJ,China: Xinjiang,,m,2012,22.5
+CNXJ,China: Xinjiang,,m,2013,22.8
+CNXJ,China: Xinjiang,,m,2014,23.1
+CNXJ,China: Xinjiang,,m,2015,23.4
+CNXJ,China: Xinjiang,,m,2016,23.6
+CNXJ,China: Xinjiang,,m,2017,23.9
+CNXJ,China: Xinjiang,,m,2018,24.2
+CNXJ,China: Xinjiang,,m,2019,24.5
+CNXJ,China: Xinjiang,,m,2020,24.7
+CNXJ,China: Xinjiang,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNXJ,China: Xinjiang,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNYN,China: Yunnan,,m,1996,40.4
+CNYN,China: Yunnan,,m,1997,41.1
+CNYN,China: Yunnan,,m,1998,41.7
+CNYN,China: Yunnan,,m,1999,42.4
+CNYN,China: Yunnan,,m,2000,43.14
+CNYN,China: Yunnan,,m,2001,43.5
+CNYN,China: Yunnan,,m,2002,43.8
+CNYN,China: Yunnan,,m,2003,44.1
+CNYN,China: Yunnan,,m,2004,44.4
+CNYN,China: Yunnan,,m,2005,44.7
+CNYN,China: Yunnan,,m,2006,44.9
+CNYN,China: Yunnan,,m,2007,45.2
+CNYN,China: Yunnan,,m,2008,45.4
+CNYN,China: Yunnan,,m,2009,45.7
+CNYN,China: Yunnan,,m,2010,46.02
+CNYN,China: Yunnan,,m,2011,46.3
+CNYN,China: Yunnan,,m,2012,46.5
+CNYN,China: Yunnan,,m,2013,46.7
+CNYN,China: Yunnan,,m,2014,47.0
+CNYN,China: Yunnan,,m,2015,47.2
+CNYN,China: Yunnan,,m,2016,47.4
+CNYN,China: Yunnan,,m,2017,47.7
+CNYN,China: Yunnan,,m,2018,47.9
+CNYN,China: Yunnan,,m,2019,48.1
+CNYN,China: Yunnan,,m,2020,48.3
+CNYN,China: Yunnan,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNYN,China: Yunnan,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+CNZJ,China: Zhejiang,,m,1996,43.9
+CNZJ,China: Zhejiang,,m,1997,44.5
+CNZJ,China: Zhejiang,,m,1998,45.2
+CNZJ,China: Zhejiang,,m,1999,45.9
+CNZJ,China: Zhejiang,,m,2000,46.78
+CNZJ,China: Zhejiang,,m,2001,47.6
+CNZJ,China: Zhejiang,,m,2002,48.4
+CNZJ,China: Zhejiang,,m,2003,49.1
+CNZJ,China: Zhejiang,,m,2004,49.9
+CNZJ,China: Zhejiang,,m,2005,50.7
+CNZJ,China: Zhejiang,,m,2006,51.4
+CNZJ,China: Zhejiang,,m,2007,52.2
+CNZJ,China: Zhejiang,,m,2008,53.0
+CNZJ,China: Zhejiang,,m,2009,53.7
+CNZJ,China: Zhejiang,,m,2010,54.49
+CNZJ,China: Zhejiang,,m,2011,55.2
+CNZJ,China: Zhejiang,,m,2012,55.9
+CNZJ,China: Zhejiang,,m,2013,56.6
+CNZJ,China: Zhejiang,,m,2014,57.2
+CNZJ,China: Zhejiang,,m,2015,57.8
+CNZJ,China: Zhejiang,,m,2016,58.4
+CNZJ,China: Zhejiang,,m,2017,58.9
+CNZJ,China: Zhejiang,,m,2018,59.3
+CNZJ,China: Zhejiang,,m,2019,59.7
+CNZJ,China: Zhejiang,,m,2020,60.0
+CNZJ,China: Zhejiang,,m,Definition,Total number of people resident (including temporary residents) at the end of the year within the province.  Data are adjusted in line with the 2000 National Population Census.
+CNZJ,China: Zhejiang,,m,Source,China Statistical Information and Consultancy Centre (CSICC)
+Copyright © 2015 The Economist Intelligence Unit.,,,,,
