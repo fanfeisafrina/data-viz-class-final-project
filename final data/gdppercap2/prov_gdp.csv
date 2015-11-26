@@ -1,4 +1,4 @@
-code,geography,Currency,year,gdppercap
+Code,geography,Currency,year,gdppercap
 CNAH,China: Anhui,USD,1996,426.1
 CNAH,China: Anhui,USD,1997,476.7
 CNAH,China: Anhui,USD,1998,514.7
@@ -49,7 +49,7 @@ CNBJ,China: Beijing,USD,2017,18650
 CNBJ,China: Beijing,USD,2018,19610
 CNBJ,China: Beijing,USD,2019,20570
 CNBJ,China: Beijing,USD,2020,22650
-CNCQ,China: Chongqing,USD,1996,â€°Ã›Ã’
+CNCQ,China: Chongqing,USD,1996,
 CNCQ,China: Chongqing,USD,1997,585.2
 CNCQ,China: Chongqing,USD,1998,593.2
 CNCQ,China: Chongqing,USD,1999,593.6
@@ -224,10 +224,10 @@ CNHI,China: Hainan,USD,2017,7820
 CNHI,China: Hainan,USD,2018,8330
 CNHI,China: Hainan,USD,2019,8790
 CNHI,China: Hainan,USD,2020,9740
-CNHE,China: Hebei,USD,1996,â€°Ã›Ã’
-CNHE,China: Hebei,USD,1997,â€°Ã›Ã’
-CNHE,China: Hebei,USD,1998,â€°Ã›Ã’
-CNHE,China: Hebei,USD,1999,â€°Ã›Ã’
+CNHE,China: Hebei,USD,1996,
+CNHE,China: Hebei,USD,1997,
+CNHE,China: Hebei,USD,1998,
+CNHE,China: Hebei,USD,1999,
 CNHE,China: Hebei,USD,2000,897.2
 CNHE,China: Hebei,USD,2001,979
 CNHE,China: Hebei,USD,2002,1064.5
@@ -774,4 +774,3 @@ CNZJ,China: Zhejiang,USD,2017,14410
 CNZJ,China: Zhejiang,USD,2018,15330
 CNZJ,China: Zhejiang,USD,2019,16200
 CNZJ,China: Zhejiang,USD,2020,18090
-Copyright Ã¥Â© 2015 The Economist Intelligence Unit.,,,,
